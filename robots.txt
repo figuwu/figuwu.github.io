@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://figuwu.github.io/EJc/sitemap.EJc.gz
